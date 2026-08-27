@@ -1,6 +1,4 @@
-packages:
-  - .
 allowBuilds:
   bcrypt: true
   sharp: true
-minimumReleaseAge: 2880
+  unrs-resolver: true
